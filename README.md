@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi, I'm @Kishan 👋
 
-<!--
-**Watcher00-0/Watcher00-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📊 I'm interested in Data Analysis, Data Visualization & Business Intelligence
+- 🧹 I love collecting, cleaning, and transforming raw data into meaningful insights
+- 📈 I work with tools like Power BI, Excel, SQL, and Python to build interactive dashboards and reports
+- 💼 Currently exploring opportunities as a Data Analyst / Data Professional
+- 🔗 Reach me out at [LinkedIn]((https://www.linkedin.com/in/kishan-kannaujiya-data-analyst/))
+- 📧 Email me at [kishankanaujiya8@gmail.com ]
+- 🎥 Check out my work on [YouTube](https://youtu.be/xJ-iyErx9QI?si=EljbPAU_DoT_kY8M)
 
-Here are some ideas to get you started:
+  
+### 🛠️ Skills
+Data Cleaning Data Collection Data Visualization Power BI Excel SQL Python DAX Power Query Dashboard Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+⭐ Feel free to explore my pinned repositories below to see my projects in action!
